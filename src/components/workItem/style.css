@@ -1,0 +1,9 @@
+.card {
+  margin-top: 10px;
+  width: 60%;
+}
+
+.card-body,
+.card-title {
+  background-color: white;
+}
